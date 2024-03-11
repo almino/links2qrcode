@@ -1,0 +1,9 @@
+{
+  "black-formatter.args": ["--line-length=100"],
+  "editor.rulers": [100],
+  "emmet.includeLanguages": { "django-html": "html" },
+  "files.associations": {
+    "**/requirements{/**,*}.{txt,in}": "pip-requirements",
+  },
+  "nixEnvSelector.suggestion": false
+}
